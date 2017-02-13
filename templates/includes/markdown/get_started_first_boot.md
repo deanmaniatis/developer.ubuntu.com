@@ -2,7 +2,7 @@
 
   1. The system will boot then become ready to configure
   2. The device will display the prompt “Press enter to configure”
-  3. Press enter then select “Start” to begin configuring your network and an administrator account. Follow the instructions on the screen, you will be asked to configure your network and enter your Ubuntu SSO credentials
+  3. Press enter then select “Start” to begin configuring your network and an administrator account. Follow the instructions on the screen, you will be asked to configure your network and enter your Ubuntu SSO credentials. (***Note***: *For the first boot of a Snappy system it needs to be connected to the wired network, please refer to [Installation tips](https://developer.ubuntu.com/en/snappy/start/installation-tips/).*)
   4. At the end of the process, you will see **your credentials to access your Ubuntu Core machine**:
 
         This device is registered to <Ubuntu SSO email address>.
